@@ -9,6 +9,7 @@ user_choice = input()
 if(user_choice == "no"):
 	print("Ok :(( maybe later...")
 	exit()
+#Guess the number game
 else:
 	count=int(0)
 	lives=int(9)
