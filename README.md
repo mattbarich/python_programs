@@ -1,2 +1,2 @@
 # python_programs
-Here are some of the projects I have done in python. I am trying to update this as I finish projects, but may not be completly up to date
+Here are some of the projects I have done in python. Some of the are pretty trivia to help solidify basic coding practices.
